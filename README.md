@@ -4,16 +4,16 @@
 ## Hello random traveller 👋
 
 <!--- LinkedIn --->
-<a href="https://www.linkedin.com/in/vietbui99/"><img align="left" src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/linkedin.png" alt="Viet Bui | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/vietbui99/"><img align="left" src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/linkedin.png" alt="Viet Bui | LinkedIn" width="30px"/></a>
 
 <!--- Discord --->
-<a href="discordapp.com/users/463366284940410910"><img align="left" src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/discord.png" alt="Viet Bui | Discord" width="21px"/></a>
+<a href="discordapp.com/users/463366284940410910"><img align="left" src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/discord.png" alt="Viet Bui | Discord" width="30px"/></a>
 
 <!-- Spotify -->
-<a href="https://open.spotify.com/user/21zfnefkptclwec56htel2eei?si=95952038b33640a3"><img align="left" src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/spotify.png" alt="Viet Bui | Spotify" width="21px"/></a>
+<a href="https://open.spotify.com/user/21zfnefkptclwec56htel2eei?si=95952038b33640a3"><img align="left" src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/spotify.png" alt="Viet Bui | Spotify" width="30px"/></a>
 
 <!-- Instagram -->
-<a href="https://www.instagram.com/vietbui99/"><img align="left" src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/instagram.png" alt="Viet Bui | Instagram" width="21px"/></a>
+<a href="https://www.instagram.com/vietbui99/"><img align="left" src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/instagram.png" alt="Viet Bui | Instagram" width="30p"/></a>
 
 My name is Viet Bui. I'm currently a Senior at Augustana College majoring in Computer Science and Applied Mathematics. 
 I have experience in building Mathematical and Physics Simulation models in Python. I had the opportunity to publish my own individual research 
