@@ -19,6 +19,20 @@
 My name is Viet Bui. I'm currently a Senior at Augustana College majoring in Computer Science and Applied Mathematics. 
 </br>
 </br>
+My languages and tools:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+
+
 I have experience in building Mathematical and Physics Simulation models in Python. I had the opportunity to publish my own individual research 
 paper last year for a Tech Conference [check it out!](https://ieeexplore.ieee.org/document/9666740) and I am currently conducting another funded
 Independent Research experience under Augustana's Math and Computer Science department's Chair and Beling Scholar Supervisor.
@@ -30,13 +44,12 @@ At the moment, I'm interested in building
 Mobile Apps in Android Kotlin and Flutter.
 </br>
 </br>
-I am planning to learn Swift during this Winter to develop IOS applications.
+I am planning to learn 	![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) during this Winter to develop IOS applications.
 </br>
 </br>
 
 My favorite hobbies outside of my academics are swimming, (table) tennis, playing video games, sorting my [Spotify playlists](https://open.spotify.com/user/21zfnefkptclwec56htel2eei?si=7ec0d2d74ba4479d), cooking (meal-prepping to be exact), and mindlessly typing on my mechanical keyboard (currently holding a 120-wpm typing speed)
 
-My languages and tools:
 
 
 
