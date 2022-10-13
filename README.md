@@ -1,4 +1,4 @@
-> 1.00^365^ = 1, but with just 1% more 1.01^365^ = 37.8
+> 1.00<sup>365<sup> = 1, but with just 1% more 1.01^365^ = 37.8
 
 Hello random traveller 👋,
 
