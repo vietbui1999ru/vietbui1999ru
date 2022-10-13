@@ -3,7 +3,7 @@
 
 ## Hello random traveller 👋
 
-<a href=”https://www.linkedin.com/in/vietbui99/"><img align=”left” src=”https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/discord.png" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href="https://www.linkedin.com/in/vietbui99/"><img align="left" src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/linkedin.png" alt="Viet Bui | LinkedIn" width="21px"/></a>
 
 My name is Viet Bui. I'm currently a Senior at Augustana College majoring in Computer Science and Applied Mathematics. 
 I have experience in building Mathematical and Physics Simulation models in Python. I had the opportunity to publish my own individual research 
