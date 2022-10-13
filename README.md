@@ -15,7 +15,7 @@
 <!-- Instagram -->
 <a href="https://www.instagram.com/vietbui99/"><img align="left" src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/instagram.png" alt="Viet Bui | Instagram" width="30p"/></a>
 
-<br>
+</br>
 My name is Viet Bui. I'm currently a Senior at Augustana College majoring in Computer Science and Applied Mathematics. 
 I have experience in building Mathematical and Physics Simulation models in Python. I had the opportunity to publish my own individual research 
 paper last year for a Tech Conference [check it out!](https://ieeexplore.ieee.org/document/9666740) and I am currently conducting another funded
