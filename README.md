@@ -1,3 +1,10 @@
+<style>
+	.alignImgWithText {
+		width:auto;
+		height:1.5em;
+	}
+</style>
+
 > ### ***1.00<sup>365</sup> = 1, but with just 1% more 1.01<sup>365</sup> = 37.8***
 
 ### Hello random traveller 👋
@@ -37,14 +44,14 @@ I have experience in building Mathematical and Physics Simulation models in Pyth
 paper last year for a Tech Conference [check it out!](https://ieeexplore.ieee.org/document/9666740) and I am currently conducting another funded
 Independent Research experience under Augustana's Math and Computer Science department's Chair and Beling Scholar Supervisor.
 </br>
-I have learnt a lot during my research experiences, and I am still learning and exploring my interests!
+I have gained a lot of new skills during my research experiences, and I am still exploring my interests!
 </br>
 </br>
-At the moment, I'm interested in building
+At the moment, I'm focused on building
 Mobile Apps in Android Kotlin and Flutter.
 </br>
 </br>
-I am planning to learn <a href="https://developer.apple.com/swift/"><img align="left" src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/swift.png" alt="Swift Website" width="30p"/></a> Swift during this Winter to develop IOS applications.
+I am planning to try out <a href="https://developer.apple.com/swift/"><img class="alignImgWithText" src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/swift.png" alt="Swift Website" width="30p"/></a> Swift during this Winter to develop IOS applications.
 
 </br>
 
