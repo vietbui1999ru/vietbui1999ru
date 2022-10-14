@@ -1,4 +1,4 @@
-> 1.00<sup>365</sup> = 1, but with just 1% more 1.01<sup>365</sup> = 37.8
+> <p style="font-size: 26px"> 1.00<sup>365</sup> = 1, but with just 1% more 1.01<sup>365</sup> = 37.8 </p>
 
 ### Hello random traveller 👋
 
@@ -44,8 +44,10 @@ At the moment, I'm interested in building
 Mobile Apps in Android Kotlin and Flutter.
 </br>
 </br>
-I am planning to learn 	![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) during this Winter to develop IOS applications.
+I am planning to learn <a href="https://developer.apple.com/swift/"><img align="left" src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/swift.png" alt="Swift Website" width="30p"/></a> Swift during this Winter to develop IOS applications.
+
 </br>
+
 </br>
 
 My favorite hobbies outside of my academics are swimming, (table) tennis, playing video games, sorting my [Spotify playlists](https://open.spotify.com/user/21zfnefkptclwec56htel2eei?si=7ec0d2d74ba4479d), cooking (meal-prepping to be exact), and mindlessly typing on my mechanical keyboard (currently holding a 120-wpm typing speed)
