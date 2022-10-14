@@ -1,4 +1,4 @@
-> <p style="font-size: 26px"> 1.00<sup>365</sup> = 1, but with just 1% more 1.01<sup>365</sup> = 37.8 </p>
+> <p style="font-size: 40px"> 1.00<sup>365</sup> = 1, but with just 1% more 1.01<sup>365</sup> = 37.8 </p>
 
 ### Hello random traveller 👋
 
