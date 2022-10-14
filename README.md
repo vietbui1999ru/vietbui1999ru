@@ -1,9 +1,10 @@
-<style>
+<!---<style>
 	.alignImgWithText {
 		width:auto;
 		height:1.5em;
 	}
 </style>
+--->
 
 > ### ***1.00<sup>365</sup> = 1, but with just 1% more 1.01<sup>365</sup> = 37.8***
 
