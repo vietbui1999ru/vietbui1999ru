@@ -6,9 +6,9 @@
 </style>
 --->
 
-<span style="color:green">1.00<sup>365</sup> = 1, but with just 1% more 1.01<sup>365</sup> = 37.8</span>
+### *** 1.00<sup>365</sup> = 1, but with just 1% more 1.01<sup>365</sup> = 37.8 ***
 
-### Hello random traveller 👋
+## Hello random traveller 👋
 
 <!--- LinkedIn --->
 <a href="https://www.linkedin.com/in/vietbui99/"><img align="left" src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/linkedin.png" alt="Viet Bui | LinkedIn" width="30px"/></a>
