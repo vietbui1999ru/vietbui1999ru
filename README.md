@@ -16,9 +16,8 @@
 
 <!-- Instagram -->
 
-<br>
-
 <a href="https://www.instagram.com/vietbui99/"><img align="left" src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/instagram.png" alt="Viet Bui | Instagram" width="30p"/></a>
+<br>
 
 <p>My name is Viet Bui. I'm currently a Senior at Augustana College majoring in Computer Science and Applied Mathematics.</p>
 
