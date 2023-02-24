@@ -18,11 +18,9 @@
 
 <a href="https://www.instagram.com/vietbui99/"><img align="left" src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/instagram.png" alt="Viet Bui | Instagram" width="30p"/></a>
 
-<br>
-My name is Viet Bui. I'm currently a Senior at Augustana College majoring in Computer Science and Applied Mathematics.
+<p>My name is Viet Bui. I'm currently a Senior at Augustana College majoring in Computer Science and Applied Mathematics.</p>
 
-<br>
-My favorite hobbies outside of my academics are swimming, (table) tennis, playing video games, sorting my [Spotify playlists](https://open.spotify.com/user/21zfnefkptclwec56htel2eei?si=7ec0d2d74ba4479d), cooking (meal-prepping to be exact), and mindlessly typing on my mechanical keyboard (currently holding a 120-wpm typing speed)
+<p>My favorite hobbies outside of my academics are swimming, (table) tennis, playing video games, sorting my [Spotify playlists](https://open.spotify.com/user/21zfnefkptclwec56htel2eei?si=7ec0d2d74ba4479d), cooking (meal-prepping to be exact), and mindlessly typing on my mechanical keyboard (currently holding a 120-wpm typing speed)</p>
 
 <!---
 vietbui1999ru/vietbui1999ru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
