@@ -21,9 +21,6 @@
 
 <p>My name is Viet Bui. I'm currently a Senior at Augustana College majoring in Computer Science and Applied Mathematics.</p>
 
-| Technologies | |
-| FrameWorks | |
-| Tools | |
 <br>
 
 <p>My favorite hobbies outside of my academics are swimming, (table) tennis, playing video games, sorting my [Spotify playlists](https://open.spotify.com/user/21zfnefkptclwec56htel2eei?si=7ec0d2d74ba4479d), cooking (meal-prepping to be exact), and mindlessly typing on my mechanical keyboard (currently holding a 120-wpm typing speed)</p>
