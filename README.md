@@ -17,7 +17,7 @@
 <a href="https://www.instagram.com/vietbui99/"><img align="left" src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/instagram.png" alt="Viet Bui | Instagram" width="30p"/></a>
 <br>
 
-<p>My name is [Viet Bui](buiv01@dayton.edu). I'm currently working as a Researcher and working towards my Computer Science MSC in University of Dayton. I completed my dual Bachelor's Degree in Computer Science and Applied Mathematics in Augustana College in May 2023.</p>
+<p>My name is (Viet Bui)[buiv01@dayton.edu]. I'm currently working as a Researcher and working towards my Computer Science MSC in University of Dayton. I completed my dual Bachelor's Degree in Computer Science and Applied Mathematics in Augustana College in May 2023.</p>
 
 <br>
 
