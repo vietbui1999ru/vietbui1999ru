@@ -1,5 +1,3 @@
-> ### **_1.00<sup>365</sup> = 1, but with just 1% more 1.01<sup>365</sup> = 37.8_**
-
 ## Hello random traveller 👋
 
 <!--- LinkedIn --->
@@ -19,14 +17,12 @@
 <a href="https://www.instagram.com/vietbui99/"><img align="left" src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/instagram.png" alt="Viet Bui | Instagram" width="30p"/></a>
 <br>
 
-<p>My name is Viet Bui. I'm currently a Senior at Augustana College majoring in Computer Science and Applied Mathematics.</p>
+<p>My name is [Viet Bui](buiv01@dayton.edu). I'm currently working as a Researcher and working towards my Computer Science MSC in University of Dayton. I completed my dual Bachelor's Degree in Computer Science and Applied Mathematics in Augustana College in May 2023.</p>
 
-| Technologies | |
-| FrameWorks | |
-| Tools | |
 <br>
 
-<p>My favorite hobbies outside of my academics are swimming, (table) tennis, playing video games, sorting my [Spotify playlists](https://open.spotify.com/user/21zfnefkptclwec56htel2eei?si=7ec0d2d74ba4479d), cooking (meal-prepping to be exact), and mindlessly typing on my mechanical keyboard (currently holding a 120-wpm typing speed)</p>
+<p>I enjoy designing, building Mathematical Simulations, and how to apply Math in Computer Science and vice versa. Outside of academics and work, I participate in bodybuilding, (table) tennis, and triathlon. My favorite hobbies include cooking, Lego, Video Games, and Mechanical Keyboards.
+</p>
 
 <!---
 vietbui1999ru/vietbui1999ru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
