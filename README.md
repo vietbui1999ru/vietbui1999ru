@@ -19,8 +19,6 @@
 
 <p>My name is Viet Bui - buiv01@dayton.edu. I'm currently working as a Researcher and working towards my Computer Science MSC in University of Dayton. I completed my dual Bachelor's Degree in Computer Science and Applied Mathematics in Augustana College in May 2023.</p>
 
-<br>
-
 <p>I enjoy designing, building Mathematical Simulations, and how to apply Math in Computer Science and vice versa. Outside of academics and work, I participate in bodybuilding, (table) tennis, and triathlon. My favorite hobbies include cooking, Lego, Video Games, and Mechanical Keyboards.
 </p>
 
