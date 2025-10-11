@@ -8,11 +8,8 @@ on:
 
 jobs:
   update-readme:
-    name: Update Readme with WakaTime Metrics on ${{ matrix.os }}
-    runs-on: ${{ matrix.os }}
-    strategy:
-      matrix:
-        os: [ubuntu-latest, macos-latest, windows-latest, macos-13, ubuntu-22.04]
+    name: Update Readme with WakaTime Metrics
+    runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
