@@ -23,6 +23,49 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2034%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 275.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 166 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 40 Public Repositories 
+ > 
+> 🔑 27 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                40 commits          ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.28 % 
+🌆 Daytime                226 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   35.48 % 
+🌃 Evening                129 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.25 % 
+🌙 Night                  242 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   37.99 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 12/10/2025 03:10:18 UTC
 <!--END_SECTION:waka-->
 
 <!---
