@@ -24,4 +24,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           IGNORED_REPOS: "vietbui1999ru"
           SYMBOL_VERSION: "3"
-          SHOW_TIMELINE: "False"
+          SHOW_LOC_CHART: "False"
