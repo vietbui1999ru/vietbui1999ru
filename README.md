@@ -1,5 +1,3 @@
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 ## Hello random traveller 👋
 
 <!--- LinkedIn --->
@@ -24,6 +22,8 @@
 <p>I enjoy designing, building Mathematical Simulations, and how to apply Math in Computer Science and vice versa. Outside of academics and work, I participate in bodybuilding, (table) tennis, and triathlon. My favorite hobbies include cooking, Lego, Video Games, and Mechanical Keyboards.
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!---
 vietbui1999ru/vietbui1999ru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
