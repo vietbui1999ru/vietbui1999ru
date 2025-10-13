@@ -23,29 +23,29 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 275.1 kB Used in GitHub's Storage 
+> 📦 276.8 kB Used in GitHub's Storage 
  > 
-> 🏆 166 Contributions in the Year 2025
+> 🏆 170 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
 > 📜 40 Public Repositories 
  > 
-> 🔑 27 Private Repositories 
+> 🔑 28 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                40 commits          ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.28 % 
-🌆 Daytime                226 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   35.48 % 
-🌃 Evening                129 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.25 % 
-🌙 Night                  242 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   37.99 % 
+🌞 Morning                40 commits          ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.27 % 
+🌆 Daytime                226 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   35.42 % 
+🌃 Evening                129 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.22 % 
+🌙 Night                  243 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   38.09 % 
 ```
 
 
@@ -55,17 +55,19 @@
 🕑︎ Time Zone: America/New_York
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   46 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜   95.54 % 
+Zoom                     2 mins              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.46 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+vietbui1999ru            35 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜   72.07 % 
+Unknown Project          13 mins             ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   27.93 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      49 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 
- Last Updated on 12/10/2025 03:10:18 UTC
+ Last Updated on 13/10/2025 12:19:57 UTC
 <!--END_SECTION:waka-->
 
 <!---
