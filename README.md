@@ -18,10 +18,14 @@
 <p>I enjoy designing, building Mathematical Simulations, and how to apply Math in Computer Science and vice versa. Outside of academics and work, I participate in bodybuilding, (table) tennis, and triathlon. My favorite hobbies include cooking, Lego, Video Games, and Mechanical Keyboards.
 </p>
 
-<center>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=vietbui1999ru&theme=catppuccin-mocha&border_radius=10&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-</center>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=vietbui1999ru&theme=catppuccin-mocha&border_radius=10&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak"/>
+  </a>
+</p>
+
 <!--START_SECTION:waka-->
+
 
 <!--END_SECTION:waka-->
 
