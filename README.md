@@ -25,8 +25,55 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-705%20hrs%2033%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 305.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 51 Public Repositories 
+ > 
+> 🔑 28 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                42 commits          ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.19 % 
+🌆 Daytime                581 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   44.15 % 
+🌃 Evening                155 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.78 % 
+🌙 Night                  538 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   40.88 % 
+```
 
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+🔥 Editors: 
+Obsidian                 10 hrs 5 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜   81.62 % 
+kitty                    59 mins             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.04 % 
+Claude                   50 mins             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.78 % 
+Neovim                   14 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.00 % 
+Slack                    11 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.56 % 
+
+🐱‍💻 Projects: 
+spotifyswipe             12 hrs 6 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜   98.00 % 
+vietbui1999ru.github.io  13 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.88 % 
+vietbui1999ru            0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.13 % 
+
+💻 Operating System: 
+Mac                      12 hrs 21 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+```
+
+
+ Last Updated on 01/01/2026 14:59:31 UTC
 <!--END_SECTION:waka-->
 
 <!---
