@@ -9,6 +9,9 @@
   You can actually catch me tinkering on my HomeLab to play around with various projects, ranging from full-stack, Machine Learning, DevOps, Networking, and blogging about my learning journey on my personal website [here](https://vietbui1999ru.github.io/)
 
 ---
+# My Current Skills
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,ansible,anaconda,arch,aws,babel,bash,bun,c,cs,cpp,cmake,django,docker,dotnet,emacs,express,fastapi,figma,firebase,flask,git,gcp,github,githubactions,gitlab,go,grafana,jest,latex,linux,lua,md,mongodb,mysql,neovim,nextjs,nginx,nodejs,obsidian,ocamlpnpm, postgres,postman,prisma,prometheus,py,pytorch,qt,raspberrypi,react,redis,sqlite,supabase,tailwind,tensorflow,terraform,ubuntu,vercel,vite,vue)](https://skillicons.dev)
+---
   # My Socials
 <!--- LinkedIn --->
 - <a href="https://www.linkedin.com/in/vietbui99/"><img align="left" src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/linkedin.png" alt="Viet Bui | LinkedIn" width="30px"/>LinkedIn</a>
