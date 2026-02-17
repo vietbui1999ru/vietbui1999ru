@@ -11,11 +11,7 @@
 ---
 # My Current Skills
 
-<p align="center">
-  <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=ts,html,css,ansible,anaconda,arch,aws,babel,bash,bun,c,cs,cpp,cmake,django,docker,dotnet,emacs,express,fastapi,figma,firebase,flask,git,gcp,github,githubactions,gitlab,go,grafana,jest,latex,linux,lua,md,mongodb,mysql,neovim,nextjs,nginx,nodejs,obsidian,ocamlpnpm, postgres,postman,prisma,prometheus,py,pytorch,qt,raspberrypi,react,redis,sqlite,supabase,tailwind,tensorflow,terraform,ubuntu,vercel,vite,vue" />
-</a>
-  </p>
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,ansible,anaconda,arch,aws,babel,bash,bun,c,cs,cpp,cmake,django,docker,dotnet,emacs,express,fastapi,figma,firebase,flask,git,gcp,github,githubactions,gitlab,go,grafana,jest,latex,linux,lua,md,mongodb,mysql,neovim,nextjs,nginx,nodejs,obsidian,ocamlpnpm, postgres,postman,prisma,prometheus,py,pytorch,qt,raspberrypi,react,redis,sqlite,supabase,tailwind,tensorflow,terraform,ubuntu,vercel,vite,vue)](https://skillicons.dev)
 
 ---
   # My Socials
