@@ -12,18 +12,49 @@
 ---
 ## My Current Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,html,css,ansible,anaconda,arch,aws,babel,bash,bun,c,cs,cpp,cmake,django,docker,dotnet,emacs,express,fastapi,figma,firebase,flask,git,gcp,github,githubactions,gitlab,go,grafana,jest,latex,linux,lua,md,mongodb,mysql,neovim,nextjs,nginx,nodejs,obsidian,ocaml,pnpm,postgres,postman,prisma,prometheus,py,pytorch,qt,raspberrypi,react,redis,sqlite,supabase,tailwind,tensorflow,terraform,ubuntu,vercel,vite,vue,swift,kotlin,java)](https://skillicons.dev)
+### Languages
+[![Languages](https://skillicons.dev/icons?i=ts,py,go,java,kotlin,swift,c,cpp,cs,ocaml,lua,bash,html,css)](https://skillicons.dev)
+
+### Frontend
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,babel,bun,pnpm)](https://skillicons.dev)
+
+### Backend
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,dotnet,nginx)](https://skillicons.dev)
+
+### Databases
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,supabase,firebase,prisma)](https://skillicons.dev)
+
+### DevOps & Cloud
+[![DevOps & Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,terraform,ansible,githubactions,gitlab,grafana,prometheus,vercel)](https://skillicons.dev)
+
+### ML / Data Science
+[![ML](https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow)](https://skillicons.dev)
+
+### Tools
+[![Tools](https://skillicons.dev/icons?i=git,github,cmake,jest,postman,figma,latex,md,qt,neovim,emacs,obsidian,arch,linux,ubuntu,raspberrypi)](https://skillicons.dev)
 
 ---
-  # My Socials
-<!--- LinkedIn --->
-- <a href="https://www.linkedin.com/in/vietbui99/"><img align="center" src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/linkedin.png" alt="Viet Bui | LinkedIn" width="30px"/>My LinkedIn</a>
+## My Socials
 
-<!-- Spotify -->
-- <a href="https://open.spotify.com/user/21zfnefkptclwec56htel2eei?si=95952038b33640a3"><img align="center" src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/spotify.png" alt="Viet Bui | Spotify" width="30px"/>My Spotify</a>
-
-<!-- Discord -->
-- <a href="https://discord.com/users/463366284940410910"><img align="center" src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/discord.png" alt="Viet Bui | Spotify" width="30px"/>My Discord</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/vietbui99/">
+        <img src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/linkedin.png" alt="Viet Bui | LinkedIn" width="30px"/><br/>My LinkedIn
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/user/21zfnefkptclwec56htel2eei?si=95952038b33640a3">
+        <img src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/spotify.png" alt="Viet Bui | Spotify" width="30px"/><br/>My Spotify
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discord.com/users/463366284940410910">
+        <img src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/discord.png" alt="Viet Bui | Discord" width="30px"/><br/>My Discord
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">
