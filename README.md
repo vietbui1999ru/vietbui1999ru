@@ -10,9 +10,9 @@
 </p>
 
 ---
-## My Current Skills (I'm saying skills but they are honestly just technologies that I have worked with or played around with in my free time)
+## My Current Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,html,css,ansible,anaconda,arch,aws,babel,bash,bun,c,cs,cpp,cmake,django,docker,dotnet,emacs,express,fastapi,figma,firebase,flask,git,gcp,github,githubactions,gitlab,go,grafana,jest,latex,linux,lua,md,mongodb,mysql,neovim,nextjs,nginx,nodejs,obsidian,ocaml,pnpm,postgres,postman,prisma,prometheus,py,pytorch,qt,raspberrypi,react,redis,sqlite,supabase,tailwind,tensorflow,terraform,ubuntu,vercel,vite,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,ansible,anaconda,arch,aws,babel,bash,bun,c,cs,cpp,cmake,django,docker,dotnet,emacs,express,fastapi,figma,firebase,flask,git,gcp,github,githubactions,gitlab,go,grafana,jest,latex,linux,lua,md,mongodb,mysql,neovim,nextjs,nginx,nodejs,obsidian,ocaml,pnpm,postgres,postman,prisma,prometheus,py,pytorch,qt,raspberrypi,react,redis,sqlite,supabase,tailwind,tensorflow,terraform,ubuntu,vercel,vite,vue,swift,kotlin,java)](https://skillicons.dev)
 
 ---
   # My Socials
