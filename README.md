@@ -34,13 +34,23 @@
 [![Tools](https://skillicons.dev/icons?i=git,github,cmake,jest,postman,figma,latex,md,qt,neovim,emacs,obsidian,arch,linux,ubuntu,raspberrypi)](https://skillicons.dev)
 
 ---
-## My Socials
+## Catch me on
 
 <table>
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/vietbui99/">
         <img src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/linkedin.png" alt="Viet Bui | LinkedIn" width="30px"/><br/>My LinkedIn
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://gitlab.com/vietbui1999ru">
+        <img src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/gitlab.png" alt="Viet Bui | Gitlab" width="30px"/><br/>My Gitlab
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vietbui1999ru">
+        <img src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/github.png" alt="Viet Bui | Github" width="30px"/><br/>My Github
       </a>
     </td>
     <td align="center">
