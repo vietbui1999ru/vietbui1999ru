@@ -22,14 +22,14 @@
 <p align="center">Full-Stack</p>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,express,fastapi,bun,redis,mongodb,postgres,prisma" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,tanstack,bun,redis,mongodb,postgres,prisma" />
   </a>
 </p>
 
 <p align="center">DevOps & Cloud</p>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,docker,kubernetes,terraform,ansible,grafana,prometheus,bash"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,kubernetes,terraform,ansible,grafana,prometheus,bash,n8n"/>
   </a>
 </p>
 
@@ -37,7 +37,7 @@
 <p align="center">Data Science/Analysis</p>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,pytorch,tensorflow,jupyter,scikitlearn"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,pytorch,tensorflow,numpy,pyspark,scikitlearn,huggingface"/>
   </a>
 </p>
 
