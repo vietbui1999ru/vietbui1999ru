@@ -22,7 +22,7 @@ jobs:
           REPOSITORY: vietbui1999ru/vietbui1999ru
           SECTION_NAME: waka # optional
           BLOCKS: ->
-          CODE_LANG: python typescript javascript bash csh c rust go hcl cmake shell # optional
+          CODE_LANG: python typescript javascript bash csh c rust go hcl cmake shell lua # optional
           time_range: all_time # optional
           LANG_COUNT: 3 # optional
           SHOW_MASKED_TIME: true

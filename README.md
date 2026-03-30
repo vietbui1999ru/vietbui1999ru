@@ -12,38 +12,24 @@
 ---
 ## My Current Skills
 
-<p align="center">Languages</p>
+<p align="center">Full-Stack</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,py,go,lua,bash" />
+    <img src="https://skillicons.dev/icons?i=ts,py,go,lua,react,express,fastapi,bun,redis,prisma,mongodb,postgres,sqlite" />
   </a>
 </p>
 
-<p align="center">Frameworks</p>
+<p align="center">Databases & Data Science/Analysis</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,express,fastapi,bun" />
-  </a>
-</p>
-
-<p align="center">Data Science & Analysis</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,r"/>
-  </a>
-</p>
-
-<p align="center">Databases</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,redis,prisma"/>
+    <img src="https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,r,huggingface"/>
   </a>
 </p>
 
 <p align="center">DevOps & Cloud</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,grafana,prometheus"/>
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,grafana,prometheus,bash"/>
   </a>
 </p>
 
