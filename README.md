@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<p align="center">Databases & Data Science/Analysis</p>
+<p align="center">Data Science/Analysis</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,r,huggingface"/>
