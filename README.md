@@ -12,25 +12,40 @@
 ---
 ## My Current Skills
 
-### Languages
-[![Languages](https://skillicons.dev/icons?i=ts,py,go,lua,bash)](https://skillicons.dev)
+<p align="center">
+<p align="center">Languages</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,py,go,lua,bash" />
+  </a>
+</p>
 
-### Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css)](https://skillicons.dev)
+<p align="center">
+<p align="center">Frameworks</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,express,fastapi,bun" />
+  </a>
+</p>
 
-### Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,bun,express,fastapi,nginx)](https://skillicons.dev)
+<p align="center">
+<p align="center">Data Science & Analysis</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,r"/>
+  </a>
+</p>
 
-### ML / Data Science
-[![ML](https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,matplotlib,seaborn,numpy,pandas,plotly)](https://skillicons.dev)
+<p align="center">
+<p align="center">Databases</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,redis,prisma"/>
+  </a>
+</p>
 
-### Databases
-[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,sqlite,redis,prisma)](https://skillicons.dev)
-
-### DevOps & Cloud
-[![DevOps & Cloud](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,grafana,prometheus)](https://skillicons.dev)
-### AI
-[![AI](https://skillicons.dev/icons?i=anthropic,openai,windsurfer,huggingface)](https://skillicons.dev)
+<p align="center">
+<p align="center">DevOps & Cloud</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,grafana,prometheus"/>
+  </a>
+</p>
 
 ---
 ## Catch me on
