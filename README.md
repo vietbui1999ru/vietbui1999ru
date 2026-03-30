@@ -12,17 +12,23 @@
 ---
 ## My Current Skills
 
+<p align="center">Languages</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,typescript,go,lua,ocaml,html,css,r"/>
+  </a>
+</p>
 <p align="center">Full-Stack</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,py,go,lua,react,express,fastapi,bun,redis,prisma,mongodb,postgres,sqlite" />
+    <img src="https://skillicons.dev/icons?i=react,express,fastapi,bun,redis,mongodb,postgres,prisma" />
   </a>
 </p>
 
 <p align="center">Data Science/Analysis</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,r,huggingface"/>
+    <img src="https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,huggingface"/>
   </a>
 </p>
 
