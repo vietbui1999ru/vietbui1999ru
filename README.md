@@ -14,29 +14,30 @@
 
 <p align="center">Languages</p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,typescript,go,lua,ocaml,html,css,r"/>
+  <a href="https://go-skill-icons.vercel.app">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,go,lua,ocaml,html,css,r"/>
   </a>
+
 </p>
 <p align="center">Full-Stack</p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,express,fastapi,bun,redis,mongodb,postgres,prisma" />
+  <a href="https://go-skill-icons.vercel.app">
+    <img src="https://go-skill-icons.vercel.app/icons?i=react,express,fastapi,bun,redis,mongodb,postgres,prisma" />
   </a>
 </p>
 
 <p align="center">DevOps & Cloud</p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,grafana,prometheus,bash"/>
+  <a href="https://go-skill-icons.vercel.app">
+    <img src="https://go-skill-icons.vercel.app/icons?i=aws,docker,kubernetes,terraform,ansible,grafana,prometheus,bash"/>
   </a>
 </p>
 
 
 <p align="center">Data Science/Analysis</p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,jupyter,scikitlearn"/>
+  <a href="https://go-skill-icons.vercel.app">
+    <img src="https://go-skill-icons.vercel.app/icons?i=anaconda,pytorch,tensorflow,jupyter,scikitlearn"/>
   </a>
 </p>
 
