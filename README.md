@@ -16,19 +16,21 @@
 [![Languages](https://skillicons.dev/icons?i=ts,py,go,lua,bash)](https://skillicons.dev)
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css)](https://skillicons.dev)
 
 ### Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,bun,express,fastapi,dotnet,nginx)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,bun,express,fastapi,nginx)](https://skillicons.dev)
+
+### ML / Data Science
+[![ML](https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,matplotlib,seaborn,numpy,pandas,plotly)](https://skillicons.dev)
 
 ### Databases
 [![Databases](https://skillicons.dev/icons?i=mongodb,postgres,sqlite,redis,prisma)](https://skillicons.dev)
 
 ### DevOps & Cloud
 [![DevOps & Cloud](https://skillicons.dev/icons?i=aws,docker,terraform,ansible,githubactions,gitlab,grafana,prometheus)](https://skillicons.dev)
-
-### ML / Data Science
-[![ML](https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,matplotlib,seaborn,numpy,pandas,plotly)](https://skillicons.dev)
+### AI
+[![AI](https://skillicons.dev/icons?i=anthropic,openai,windsurfer,huggingface)](https://skillicons.dev)
 
 ---
 ## Catch me on
