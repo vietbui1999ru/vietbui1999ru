@@ -13,25 +13,22 @@
 ## My Current Skills
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=ts,py,go,cs,lua,bash)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,py,go,lua,bash)](https://skillicons.dev)
 
 ### Frontend
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css)](https://skillicons.dev)
 
 ### Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,bun,express,fastapi,django,flask,dotnet,nginx)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,bun,express,fastapi,dotnet,nginx)](https://skillicons.dev)
 
 ### Databases
-[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,sqlite,redis,supabase,prisma)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,sqlite,redis,prisma)](https://skillicons.dev)
 
 ### DevOps & Cloud
-[![DevOps & Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,terraform,ansible,githubactions,gitlab,grafana,prometheus)](https://skillicons.dev)
+[![DevOps & Cloud](https://skillicons.dev/icons?i=aws,docker,terraform,ansible,githubactions,gitlab,grafana,prometheus)](https://skillicons.dev)
 
 ### ML / Data Science
-[![ML](https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow)](https://skillicons.dev)
-
-### Tools
-[![Tools](https://skillicons.dev/icons?i=git,githubjest,figma,latex,,md,neovim,obsidian,linux,raspberrypi)](https://skillicons.dev)
+[![ML](https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,matplotlib,seaborn,numpy,pandas,plotly)](https://skillicons.dev)
 
 ---
 ## Catch me on
