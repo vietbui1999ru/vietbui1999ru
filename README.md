@@ -28,7 +28,7 @@
 <p align="center">Data Science/Analysis</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,huggingface"/>
+    <img src="https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,jupyter,scikit-learn"/>
   </a>
 </p>
 
