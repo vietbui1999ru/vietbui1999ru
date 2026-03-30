@@ -10,24 +10,22 @@ permissions:
 
 jobs:
   update-readme:
-    name: Update Readme with WakaTime Metrics
+    name: WakaReadme Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: athul/waka-readme@master
         with:
+          API_BASE_URL: https://wakatime.com/api
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           ### content
-          SHOW_TITLE: true # optional
+          REPOSITORY: vietbui1999ru/vietbui1999ru
           SECTION_NAME: waka # optional
-          BLOCKS: -> # optional
-          CODE_LANG: rust # optional
-          TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
+          BLOCKS: ->
+          CODE_LANG: python typescript javascript bash # optional
+          time_range: last_30_days # optional
+          LANG_COUNT: 4 # optional
+          SHOW_MASKED_TIME: true
           IGNORED_LANGUAGES: YAML JSON TOML # optional
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
