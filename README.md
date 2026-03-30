@@ -28,7 +28,7 @@
 [![Databases](https://skillicons.dev/icons?i=mongodb,postgres,sqlite,redis,prisma)](https://skillicons.dev)
 
 ### DevOps & Cloud
-[![DevOps & Cloud](https://skillicons.dev/icons?i=aws,docker,terraform,ansible,githubactions,gitlab,grafana,prometheus)](https://skillicons.dev)
+[![DevOps & Cloud](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,grafana,prometheus)](https://skillicons.dev)
 ### AI
 [![AI](https://skillicons.dev/icons?i=anthropic,openai,windsurfer,huggingface)](https://skillicons.dev)
 
