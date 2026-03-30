@@ -25,17 +25,18 @@
   </a>
 </p>
 
-<p align="center">Data Science/Analysis</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,jupyter,scikit-learn"/>
-  </a>
-</p>
-
 <p align="center">DevOps & Cloud</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,grafana,prometheus,bash"/>
+  </a>
+</p>
+
+
+<p align="center">Data Science/Analysis</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,jupyter,scikitlearn"/>
   </a>
 </p>
 
