@@ -13,25 +13,25 @@
 ## My Current Skills
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=ts,py,go,java,kotlin,swift,c,cpp,cs,ocaml,lua,bash,html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,py,go,cs,lua,bash](https://skillicons.dev)
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,babel,bun,pnpm)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css)](https://skillicons.dev)
 
 ### Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,dotnet,nginx)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,bun,express,fastapi,django,flask,dotnet,nginx)](https://skillicons.dev)
 
 ### Databases
-[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,supabase,firebase,prisma)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,sqlite,redis,supabase,prisma)](https://skillicons.dev)
 
 ### DevOps & Cloud
-[![DevOps & Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,terraform,ansible,githubactions,gitlab,grafana,prometheus,vercel)](https://skillicons.dev)
+[![DevOps & Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,terraform,ansible,githubactions,gitlab,grafana,prometheus)](https://skillicons.dev)
 
 ### ML / Data Science
 [![ML](https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow)](https://skillicons.dev)
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,cmake,jest,postman,figma,latex,md,qt,neovim,emacs,obsidian,arch,linux,ubuntu,raspberrypi)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,githubjest,figma,latex,,md,neovim,obsidian,linux,raspberrypi)](https://skillicons.dev)
 
 ---
 ## Catch me on
