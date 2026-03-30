@@ -24,9 +24,9 @@ jobs:
           BLOCKS: ->
           CODE_LANG: python typescript javascript bash csh c rust go hcl cmake shell # optional
           time_range: all_time # optional
-          LANG_COUNT: 4 # optional
+          LANG_COUNT: 3 # optional
           SHOW_MASKED_TIME: true
-          IGNORED_LANGUAGES: YAML JSON TOML svg png jpg markdown # optional
+          IGNORED_LANGUAGES: YAML JSON TOML svg png jpg Markdown other # optional
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           TARGET_BRANCH: master # optional
