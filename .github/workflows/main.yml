@@ -23,7 +23,7 @@ jobs:
           SECTION_NAME: waka # optional
           BLOCKS: ->
           CODE_LANG: python typescript javascript bash csh c rust go hcl cmake shell # optional
-          time_range: last_30_days # optional
+          time_range: all_time # optional
           LANG_COUNT: 4 # optional
           SHOW_MASKED_TIME: true
           IGNORED_LANGUAGES: YAML JSON TOML # optional
