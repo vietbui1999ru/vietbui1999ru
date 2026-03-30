@@ -50,7 +50,7 @@
 ---
 ## Catch me on
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/vietbui99/">
