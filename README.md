@@ -12,36 +12,36 @@
 ---
 ## My Current Skills
 
-<p align="center">
 <p align="center">Languages</p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,py,go,lua,bash" />
   </a>
 </p>
 
-<p align="center">
 <p align="center">Frameworks</p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,express,fastapi,bun" />
   </a>
 </p>
 
-<p align="center">
 <p align="center">Data Science & Analysis</p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,r"/>
   </a>
 </p>
 
-<p align="center">
 <p align="center">Databases</p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,redis,prisma"/>
   </a>
 </p>
 
-<p align="center">
 <p align="center">DevOps & Cloud</p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,grafana,prometheus"/>
   </a>
