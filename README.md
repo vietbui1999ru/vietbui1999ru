@@ -17,13 +17,13 @@
     <td align="center">
       <strong>Languages</strong><br/><br/>
       <a href="https://go-skill-icons.vercel.app">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,go,lua,ocaml,html,css,r&perline=4"/>
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,go,lua,ocaml,html,css,r"/>
       </a>
     </td>
     <td align="center">
       <strong>Full-Stack</strong><br/><br/>
       <a href="https://go-skill-icons.vercel.app">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=react,tanstack,bun,redis,mongodb,postgres,prisma&perline=4"/>
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=react,tanstack,bun,redis,mongodb,postgres,prisma"/>
       </a>
     </td>
   </tr>
@@ -31,13 +31,13 @@
     <td align="center">
       <strong>DevOps & Cloud</strong><br/><br/>
       <a href="https://go-skill-icons.vercel.app">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,kubernetes,terraform,ansible,grafana,prometheus,bash,n8n&perline=4"/>
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,kubernetes,terraform,ansible,grafana,prometheus,bash,n8n"/>
       </a>
     </td>
     <td align="center">
       <strong>Data Science/Analysis</strong><br/><br/>
       <a href="https://go-skill-icons.vercel.app">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,pytorch,tensorflow,numpy,pyspark,scikitlearn,huggingface&perline=4"/>
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,pytorch,tensorflow,numpy,pyspark,scikitlearn,huggingface"/>
       </a>
     </td>
   </tr>
@@ -60,7 +60,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/vietbui1999ru">
-        <img src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/github.png" invert="true" alt="Viet Bui | Github" width="30px"/><br/>My Github
+        <img src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/github.png" alt="Viet Bui | Github" width="30px"/><br/>My Github
       </a>
     </td>
     <td align="center">
