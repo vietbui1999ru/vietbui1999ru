@@ -75,7 +75,7 @@
     </td>
     <td align="center">
       <a href="https://vietbui1999ru.github.io">
-        <img src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/portfolio.png" alt="Viet Bui | Portfolio" width="30px"/><br/>My Portfolio
+        <img src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/pcmasterrace.png" alt="Viet Bui | Portfolio" width="30px"/><br/>My Portfolio
       </a>
     </td>
   </tr>
