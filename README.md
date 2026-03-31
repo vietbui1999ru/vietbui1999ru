@@ -12,34 +12,36 @@
 ---
 ## My Current Skills
 
-<p align="center">Languages</p>
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,go,lua,ocaml,html,css,r"/>
-  </a>
-
-</p>
-<p align="center">Full-Stack</p>
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,tanstack,bun,redis,mongodb,postgres,prisma" />
-  </a>
-</p>
-
-<p align="center">DevOps & Cloud</p>
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,kubernetes,terraform,ansible,grafana,prometheus,bash,n8n"/>
-  </a>
-</p>
-
-
-<p align="center">Data Science/Analysis</p>
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,pytorch,tensorflow,numpy,pyspark,scikitlearn,huggingface"/>
-  </a>
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center">
+      <strong>Languages</strong><br/><br/>
+      <a href="https://go-skill-icons.vercel.app">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,go,lua,ocaml,html,css,r&perline=4"/>
+      </a>
+    </td>
+    <td align="center">
+      <strong>Full-Stack</strong><br/><br/>
+      <a href="https://go-skill-icons.vercel.app">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=react,tanstack,bun,redis,mongodb,postgres,prisma&perline=4"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>DevOps & Cloud</strong><br/><br/>
+      <a href="https://go-skill-icons.vercel.app">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,kubernetes,terraform,ansible,grafana,prometheus,bash,n8n&perline=4"/>
+      </a>
+    </td>
+    <td align="center">
+      <strong>Data Science/Analysis</strong><br/><br/>
+      <a href="https://go-skill-icons.vercel.app">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,pytorch,tensorflow,numpy,pyspark,scikitlearn,huggingface&perline=4"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 ## Catch me on
@@ -69,6 +71,11 @@
     <td align="center">
       <a href="https://discord.com/users/463366284940410910">
         <img src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/discord.png" alt="Viet Bui | Discord" width="30px"/><br/>My Discord
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://vietbui1999ru.github.io">
+        <img src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/portfolio.png" alt="Viet Bui | Portfolio" width="30px"/><br/>My Portfolio
       </a>
     </td>
   </tr>
