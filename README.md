@@ -60,7 +60,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/vietbui1999ru">
-        <img src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/github.png" alt="Viet Bui | Github" width="30px"/><br/>My Github
+        <img src="https://github.com/vietbui1999ru/vietbui1999ru/blob/main/images/github.png" invert="true" alt="Viet Bui | Github" width="30px"/><br/>My Github
       </a>
     </td>
     <td align="center">
@@ -81,12 +81,6 @@
   </tr>
 </table>
 
-
-<p align="center">
-  <a href="https://git.io/streak-stats"
-    <img src="https://streak-stats.demolab.com?user=vietbui1999ru&theme=catppuccin-mocha&border_radius=10&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="http://img.shields.io/badge/Code%20Time-1%2C060%20hrs%2019%20mins-blue?style=flat"
