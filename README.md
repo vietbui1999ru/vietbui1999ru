@@ -90,6 +90,14 @@
 
 <!--START_SECTION:waka-->
 
+```python typescript javascript bash csh c rust go hcl cmake shell lua
+Total Time: 1,087 hrs 40 mins
+
+Other                      329 hrs 38 mins       >>>>>>>>-----------------   30.31 %
+Python                     120 hrs 47 mins       >>>----------------------   11.11 %
+TypeScript                 91 hrs 57 mins        >>-----------------------   08.46 %
+```
+
 <!--END_SECTION:waka-->
 
 <!---
